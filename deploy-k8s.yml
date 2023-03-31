@@ -13,7 +13,8 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mylandmarktech/maven-web-app
+        image: hewreg001-bvzotyno.scr.kr-east.samsungsdscloud.com/marven-test/marven-test
+
         ports:
         - containerPort: 8080
 ---
